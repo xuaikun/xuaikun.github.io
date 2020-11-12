@@ -1,9 +1,6 @@
 # 徐爱昆(Aikun )
 ## 欢迎来到我的主页
-
 ![image](https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG)
-
-https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG
 
 我目前在中南大学计算机学院攻读硕士学位(中国，长沙)。我在中南民族大学计算机科学学院获得学士学位(中国，武汉)。我目前的感兴趣的研究方向为：机器学习、调度、电动汽车以及无线网络。
 
@@ -24,12 +21,11 @@ https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG
 2020年创新类研究生项目《 面向厂区货车的融合式导航系统研究》主持
 
 ### 联系方式
+Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
 
-Email:aikunxu@csu.edu.cn
+dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 
-dblp: [AikunXu'dblp](https://dblp.org/pid/264/1873.html)
-
-Introduction:[AikunXu'Intro](https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx)
+Introduction:[https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx](https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx)
 
 ## Note
 ### Markdown
