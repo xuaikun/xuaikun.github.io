@@ -2,7 +2,7 @@
 ## 欢迎来到我的主页
 
 <figure>
-<a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.jpg"></a>
+<a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG"></a>
 </figure>
 
 ![Image](https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG)
