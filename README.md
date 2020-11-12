@@ -1,8 +1,6 @@
 ## Welcome to My Homepage
 
-You can use the [editor on GitHub](https://github.com/xuaikun/xuaikun.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aikun Xu is currently a master's student in the School of Computer Science and Engineering, Central South University, Changsha, China. He received a B.S. degree from the School of Computer Science at South-Central University for Nationalities, Wuhan, China, in 2019. His research interests include machine learning, scheduling, electric vehicles, and wireless networks.
 
 ### Markdown
 
