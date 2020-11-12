@@ -1,6 +1,9 @@
-## Welcome to My Homepage
+# 徐爱昆(Aikun )
+## 欢迎来到我的主页
 
-![image](https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG)Aikun Xu is currently a master's student in the School of Computer Science and Engineering, Central South University, Changsha, China. He received a B.S. degree from the School of Computer Science at South-Central University for Nationalities, Wuhan, China, in 2019. His research interests include machine learning, scheduling, electric vehicles, and wireless networks.
+![image](https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG)
+徐爱昆目前在
+（Aikun Xu is currently a master's student in the School of Computer Science and Engineering, Central South University, Changsha, China. He received a B.S. degree from the School of Computer Science at South-Central University for Nationalities, Wuhan, China, in 2019. His research interests include machine learning, scheduling, electric vehicles, and wireless networks.）
 
 ## 教育经历
 2015年9月~2019年8月 中南民族大学 学士学位
