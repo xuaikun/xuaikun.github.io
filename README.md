@@ -1,5 +1,9 @@
 # 徐爱昆(Aikun )
 ## 欢迎来到我的主页
+<figure>
+<a><img src="{{site.url}}/photo.JPG"></a>
+</figure>
+
 ![image](https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG)
 
 我目前在中南大学计算机学院攻读硕士学位(中国，长沙)。我在中南民族大学计算机科学学院获得学士学位(中国，武汉)。我目前的感兴趣的研究方向为：机器学习、调度、电动汽车以及无线网络。
