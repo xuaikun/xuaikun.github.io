@@ -3,6 +3,8 @@
 
 ![image](https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG)
 
+https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG
+
 我目前在中南大学计算机学院攻读硕士学位(中国，长沙)。我在中南民族大学计算机科学学院获得学士学位(中国，武汉)。我目前的感兴趣的研究方向为：机器学习、调度、电动汽车以及无线网络。
 
 （Aikun Xu is currently a master's student in the School of Computer Science and Engineering, Central South University, Changsha, China. He received a B.S. degree from the School of Computer Science at South-Central University for Nationalities, Wuhan, China, in 2019. His research interests include machine learning, scheduling, electric vehicles, and wireless networks.）
