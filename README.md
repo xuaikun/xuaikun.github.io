@@ -1,7 +1,8 @@
 # 徐爱昆(Aikun )
 ## 欢迎来到我的主页
+
 <figure>
-<a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG"></a>
+<a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.jpg"></a>
 </figure>
 
 ![Image](https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG)
