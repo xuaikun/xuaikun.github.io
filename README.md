@@ -7,6 +7,8 @@
 
 我目前在中南大学计算机学院攻读硕士学位(中国，长沙)。我在中南民族大学计算机科学学院获得学士学位(中国，武汉)。我的研究方向：前期主要做WSN和WRSN中的网络优化以及Shared E-Bike和EV背景下的充电调度，目前主要做与深度学习相关的研究。
 
+目前在投SCI期刊论文3篇，论文均处于一审中(导师一作，本人二作)。
+
 链接：[https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx](https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx)
 
 （Aikun Xu is currently a master's student in the School of Computer Science and Engineering, Central South University, Changsha, China. He received a B.S. degree from the School of Computer Science at South-Central University for Nationalities, Wuhan, China, in 2019. His research interests include machine learning, scheduling, electric vehicles, and wireless networks.）
