@@ -5,7 +5,9 @@
 <a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG"></a>
 </figure>
 
-我目前在中南大学计算机学院攻读硕士学位(中国，长沙)。我在中南民族大学计算机科学学院获得学士学位(中国，武汉)。我的研究方向：前期主要做WSN和WRSN中的网络优化以及Shared E-Bike和EV背景下的充电调度，目前主要做与深度学习相关的研究。
+我目前在中南大学计算机学院攻读硕士学位(中国，长沙)。我在中南民族大学计算机科学学院获得学士学位(中国，武汉)。
+
+我的研究方向：前期主要做WSN和WRSN中的网络优化以及Shared E-Bike和EV背景下的充电调度，目前主要做与深度学习相关的研究。
 
 目前在投SCI期刊论文3篇，论文均处于一审中(导师一作，本人二作)。
 
@@ -17,6 +19,11 @@
 2015年9月~2019年8月 中南民族大学 学士学位
 
 2019年9月至今 中南大学 硕士学位（2019级在读学术型硕士研究生，推免）
+
+### 实习经历
+2018年11月~2019年1月 [武汉全品教育科技有限公司](http://www.canpointlive.com/) 图像处理项目(已开源)
+1. [利用百度SDK对人脸图片进行抠图处理的程序](https://github.com/xuaikun/BaiduSDK_FaceMatch)
+2. [利用虹软SDK对人脸图片进行筛图处理的程序](https://github.com/xuaikun/ArcsoftSDK_FaceMatch)
 
 ### 我的论文
 1. [Zhong P, Xu A, Chen Y, et al. An Optimization Deployment Scheme for Static Charging Piles Based on Dynamic of Shared E-Bikes[C]//2019 15th International Conference on Mobile Ad-Hoc and Sensor Networks (MSN). IEEE, 2019: 343-347.  CCF C类. (导师一作，本人二作)](https://ieeexplore.ieee.org/document/9066134) 
