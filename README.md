@@ -33,7 +33,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 2020年创新类研究生项目《 面向厂区货车的融合式导航系统研究》主持
 
 ### 科研工具
-[查找&下载论文的重要链接](https://github.com/xuaikun/xuaikun.github.io/blob/main/file/%E6%9F%A5%E6%89%BE%26%E4%B8%8B%E8%BD%BD%E8%AE%BA%E6%96%87%E7%9A%84%E9%87%8D%E8%A6%81%E9%93%BE%E6%8E%A5.docx)
+[查找&下载论文的重要链接](https://github.com/xuaikun/xuaikun.github.io/blob/main/file/%E6%9F%A5%E6%89%BE%26%E4%B8%8B%E8%BD%BD%E8%AE%BA%E6%96%87%E7%9A%84%E9%87%8D%E8%A6%81%E9%93%BE%E6%8E%A5.md)
 
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
