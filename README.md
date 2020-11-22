@@ -5,18 +5,6 @@
 <a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG"></a>
 </figure>
 
-<figure>
-    <img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG"
-         alt="Elephant at sunset">
-    <figcaption>An elephant at sunset</figcaption>
-</figure>
-
-<figure>
-  <img
-  src="https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG"
-  alt="A robotic monster over the letters MDN.">
-</figure>
-
 我目前在中南大学计算机学院攻读硕士学位(中国，长沙)。我在中南民族大学计算机科学学院获得学士学位(中国，武汉)。
 
 我的研究方向：前期主要做WSN和WRSN中的网络优化以及Shared E-Bike和EV背景下的充电调度，目前主要做与深度学习相关的研究。
