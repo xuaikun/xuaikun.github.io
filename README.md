@@ -63,6 +63,8 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 1. [厦门大学纪荣嵘老师团队的科研资源](https://mac.xmu.edu.cn/resources.htm)
 2. [中国人民大学赵鑫-AI科研入坑指南](https://mp.weixin.qq.com/s/h00VmCi1E7IhIDCj7X1ZjQ)
 3. [南京大学-周志华-如何做研究与论文](https://mp.weixin.qq.com/s/gAsaa7fAraE5B-vm_izFTg?client=tim&ADUIN=727850024&ADSESSION=1577595981&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
+4. [剑桥大学-教授-读论文技巧](https://mp.weixin.qq.com/s/5oiHcsgNPYND9TF8oVcKBQ?client=tim&ADUIN=727850024&ADSESSION=1577593670&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
+5. [清华大学-刘洋-浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/dK53a5M79VJnH7sas0BcUQ)
 
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
