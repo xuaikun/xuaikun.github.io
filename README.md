@@ -55,11 +55,14 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 1. [查找&下载论文的重要链接](https://github.com/xuaikun/xuaikun.github.io/blob/main/file/%E6%9F%A5%E6%89%BE%26%E4%B8%8B%E8%BD%BD%E8%AE%BA%E6%96%87%E7%9A%84%E9%87%8D%E8%A6%81%E9%93%BE%E6%8E%A5.md)
 2. [科学上网-步骤(翻墙)](https://github.com/xuaikun/Science_Online)
 3. [翻墙软件(最新)](https://www.scto04.xyz/auth/register?code=PRdC)
+4. [在线版Latex](https://www.overleaf.com/)
+5. [阿里开源图库](https://www.iconfont.cn/search/index?q=)
+
 
 ### 科研经验
 1. [厦门大学纪荣嵘老师团队的科研资源](https://mac.xmu.edu.cn/resources.htm)
 2. [中国人民大学赵鑫-AI科研入坑指南](https://mp.weixin.qq.com/s/h00VmCi1E7IhIDCj7X1ZjQ)
-3. [AI科研入坑指南](https://mp.weixin.qq.com/s/QgHBpqD3Ln4UgeeOZnD-bA)
+3. 
 
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
