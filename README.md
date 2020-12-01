@@ -16,9 +16,9 @@
 （Aikun Xu is currently a master's student in the School of Computer Science and Engineering, Central South University, Changsha, China. He received a B.S. degree from the School of Computer Science at South-Central University for Nationalities, Wuhan, China, in 2019. His research interests include machine learning, scheduling, electric vehicles, and wireless networks.）
 
 ## 教育经历
-2015年9月~2019年8月 中南民族大学 学士学位
+2015年9月~2019年8月 中南民族大学 学士学位（导师：[康怡琳](https://www.scuec.edu.cn/s/48/t/1997/47/a1/info149409.htm)）
 
-2019年9月至今 中南大学 硕士学位（2019级在读学术型硕士研究生，推免），中共预备党员
+2019年9月至今 中南大学 硕士学位（2019级在读学术型硕士研究生，推免），中共预备党员（导师：[钟萍](https://faculty.csu.edu.cn/zhongping/zh_CN/index/76687/list/index.htm)）
 
 ### 实习经历
 2018年11月~2019年1月 [武汉全品教育科技有限公司](http://www.canpointlive.com/) 图像处理项目(已开源)
