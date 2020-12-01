@@ -56,6 +56,10 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 2. [科学上网-步骤(翻墙)](https://github.com/xuaikun/Science_Online)
 3. [翻墙软件(最新)](https://www.scto04.xyz/auth/register?code=PRdC)
 
+### 科研经验
+1. [厦门大学纪荣嵘老师团队的科研资源](https://mac.xmu.edu.cn/resources.htm)
+2. 
+
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
 
