@@ -9,7 +9,7 @@
 
 我的研究方向：前期主要做WSN和WRSN中的网络优化以及Shared E-Bike和EV背景下的充电调度，目前主要做与深度学习相关的研究。
 
-目前在投SCI期刊论文3篇，论文均处于一审中(导师一作，本人二作)。
+目前在投SCI期刊论文4篇，论文均处于一审中(导师一作，本人二作)。
 
 链接：[https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx](https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx)
 
