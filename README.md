@@ -37,7 +37,7 @@
 dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 
 ### 我的项目
-2020年创新类研究生项目《 面向厂区货车的融合式导航系统研究》 主持 "the Innovation Training Grant for Students of Central South University (No. GCX2020347Y])"
+2020年创新类研究生项目《 面向厂区货车的融合式导航系统研究》 主持 "the Innovation Training Grant for Students of Central South University (No. GCX2020347Y)"
 
 ### 竞赛获奖
 1. 中南大学第六届智慧城市技术与创新设计大赛 二等奖
