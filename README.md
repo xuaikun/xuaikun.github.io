@@ -62,27 +62,32 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 ### 科研经验
 1. [厦门大学纪荣嵘老师团队的科研资源](https://mac.xmu.edu.cn/resources.htm)
 2. [中国人民大学赵鑫-AI科研入坑指南](https://mp.weixin.qq.com/s/h00VmCi1E7IhIDCj7X1ZjQ)
-3. [南京大学-周志华-如何做研究与论文](https://mp.weixin.qq.com/s/gAsaa7fAraE5B-vm_izFTg?client=tim&ADUIN=727850024&ADSESSION=1577595981&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
-4. [剑桥大学-教授-读论文技巧](https://mp.weixin.qq.com/s/5oiHcsgNPYND9TF8oVcKBQ?client=tim&ADUIN=727850024&ADSESSION=1577593670&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
-5. [清华大学-刘洋-浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/dK53a5M79VJnH7sas0BcUQ)
-6. [MIT-温斯顿教授-如何演讲 How to Speak？](https://mp.weixin.qq.com/s/fLl0i_1bQ6Eyr7FHRp8BWw)
-7. [读文献效率提升 5 倍，这些方法值得一试](https://mp.weixin.qq.com/s/tD8DMRGHKKYNiZMhnUqSpA)
-8. [毕导-一个科研老狗给研究生新生的99条建议](https://mp.weixin.qq.com/s/ULVleOmXSfTR2AVgFvJeIw)
-9. [告研究生新生书](https://mp.weixin.qq.com/s/GZ8plpfZcpypKAn-38gW1Q)
-10. [喻海良：研究生第一篇学术论文普遍存在的9个问题](https://mp.weixin.qq.com/s/fQMISTI8lpCNDePs2ZYbHQ)
-11. [沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题](https://mp.weixin.qq.com/s/GKgwudxwUN4kvZfjeoUdEg)
-12. [暑假即将开始，导师十问课题组研究生！](https://mp.weixin.qq.com/s/1OQd-s24n5X-bXT4adgwag)
-13. [真正优秀的学生是不用导师push](https://mp.weixin.qq.com/s/d1c6ZVw5XSSHOXsuKqrGnA)
+3. [MIT-温斯顿教授-如何演讲 How to Speak？](https://mp.weixin.qq.com/s/fLl0i_1bQ6Eyr7FHRp8BWw)
+4. [毕导-一个科研老狗给研究生新生的99条建议](https://mp.weixin.qq.com/s/ULVleOmXSfTR2AVgFvJeIw)
+5. [告研究生新生书](https://mp.weixin.qq.com/s/GZ8plpfZcpypKAn-38gW1Q)
+6. [暑假即将开始，导师十问课题组研究生！](https://mp.weixin.qq.com/s/1OQd-s24n5X-bXT4adgwag)
+7. [真正优秀的学生是不用导师push](https://mp.weixin.qq.com/s/d1c6ZVw5XSSHOXsuKqrGnA)
+8. [中国人民大学-赵鑫-计算机系本科生开展科研学习的九问九答](https://mp.weixin.qq.com/s/Xql8W2bbDLT2ouE_E5mYCA)
+9. [微软-沈向洋-自述：在实现职业目标的道路上，我得到了七个教训](https://mp.weixin.qq.com/s/cN-85yTCx9ax9X3FxZeZrQ)
+
+### 论文经验
+1. [研究生的早期科研之路](https://mp.weixin.qq.com/s/MDB_er6rfKhXkDp-m1w-tg)
+2. [南京大学-周志华-如何做研究与论文](https://mp.weixin.qq.com/s/gAsaa7fAraE5B-vm_izFTg?client=tim&ADUIN=727850024&ADSESSION=1577595981&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
+3. [微软-童欣：研究之味](https://mp.weixin.qq.com/s/sC-Ei_5_AGrsv-kKCph9XQ)
+4. [清华-刘知远：好的研究想法从哪里来](https://mp.weixin.qq.com/s/6ZIHdj_j9Z86YOnWWoPlyg)
+5. [沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题](https://mp.weixin.qq.com/s/GKgwudxwUN4kvZfjeoUdEg)
+6. [读文献效率提升 5 倍，这些方法值得一试](https://mp.weixin.qq.com/s/tD8DMRGHKKYNiZMhnUqSpA)
+7. [剑桥大学-教授-读论文技巧](https://mp.weixin.qq.com/s/5oiHcsgNPYND9TF8oVcKBQ?client=tim&ADUIN=727850024&ADSESSION=1577593670&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
+8. [清华大学-刘洋-浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/dK53a5M79VJnH7sas0BcUQ)
+9. [SCI论文写作指南](https://mp.weixin.qq.com/s/Py7VCZeQuaSfh6_OnzPi7Q)
+10. [如何撰写科研论文的引言部分？干货分享！](https://mp.weixin.qq.com/s/PyRQhRyYy5UAl4wXnQ9NQg)
+11. [SCI论文 Introduction常用句式总结（上）](https://zhuanlan.zhihu.com/p/259626565?utm_source=wechat_session&utm_medium=social&utm_oi=1009513959996628992&s_r=0)
+12. [SCI论文 Introduction常用句式总结（下）](https://zhuanlan.zhihu.com/p/261293787?utm_source=wechat_session&utm_medium=social&utm_oi=1009513959996628992&s_r=0)
+13. [喻海良：研究生第一篇学术论文普遍存在的9个问题](https://mp.weixin.qq.com/s/fQMISTI8lpCNDePs2ZYbHQ)
 
 <figure>
 <a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/paper-scheme.jpg"></a>
 </figure>
-
-### SCI经验
-1. [SCI论文写作指南](https://mp.weixin.qq.com/s/Py7VCZeQuaSfh6_OnzPi7Q)
-2. [如何撰写科研论文的引言部分？干货分享！](https://mp.weixin.qq.com/s/PyRQhRyYy5UAl4wXnQ9NQg)
-3. [SCI论文 Introduction常用句式总结（上）](https://zhuanlan.zhihu.com/p/259626565?utm_source=wechat_session&utm_medium=social&utm_oi=1009513959996628992&s_r=0)
-4. [SCI论文 Introduction常用句式总结（下）](https://zhuanlan.zhihu.com/p/261293787?utm_source=wechat_session&utm_medium=social&utm_oi=1009513959996628992&s_r=0)
 
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
