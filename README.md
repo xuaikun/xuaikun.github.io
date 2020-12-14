@@ -75,7 +75,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 13. [真正优秀的学生是不用导师push](https://mp.weixin.qq.com/s/d1c6ZVw5XSSHOXsuKqrGnA)
 
 <figure>
-<a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG"></a>
+<a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/paper-scheme.jpg"></a>
 </figure>
 
 ### SCI经验
