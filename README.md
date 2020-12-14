@@ -66,6 +66,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 4. [剑桥大学-教授-读论文技巧](https://mp.weixin.qq.com/s/5oiHcsgNPYND9TF8oVcKBQ?client=tim&ADUIN=727850024&ADSESSION=1577593670&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
 5. [清华大学-刘洋-浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/dK53a5M79VJnH7sas0BcUQ)
 6. [GPU选购指南-2019](https://mp.weixin.qq.com/s/a-b4q3_o19KGXF125qBa_A?client=tim&ADUIN=727850024&ADSESSION=1584534264&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
+7. [MIT-温斯顿教授-如何演讲 How to Speak？](https://mp.weixin.qq.com/s/fLl0i_1bQ6Eyr7FHRp8BWw)
 
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
