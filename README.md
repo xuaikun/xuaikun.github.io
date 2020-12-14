@@ -83,7 +83,6 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 2. [如何撰写科研论文的引言部分？干货分享！](https://mp.weixin.qq.com/s/PyRQhRyYy5UAl4wXnQ9NQg)
 3. [SCI论文 Introduction常用句式总结（上）](https://zhuanlan.zhihu.com/p/259626565?utm_source=wechat_session&utm_medium=social&utm_oi=1009513959996628992&s_r=0)
 4. [SCI论文 Introduction常用句式总结（下）](https://zhuanlan.zhihu.com/p/261293787?utm_source=wechat_session&utm_medium=social&utm_oi=1009513959996628992&s_r=0)
-5. []()
 
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
