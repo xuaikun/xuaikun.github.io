@@ -57,7 +57,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 3. [翻墙软件(最新)](https://www.scto04.xyz/auth/register?code=PRdC)
 4. [在线版Latex](https://www.overleaf.com/)
 5. [阿里开源图库](https://www.iconfont.cn/search/index?q=)
-
+6. [GPU选购指南-2019](https://mp.weixin.qq.com/s/a-b4q3_o19KGXF125qBa_A?client=tim&ADUIN=727850024&ADSESSION=1584534264&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
 
 ### 科研经验
 1. [厦门大学纪荣嵘老师团队的科研资源](https://mac.xmu.edu.cn/resources.htm)
@@ -65,8 +65,25 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 3. [南京大学-周志华-如何做研究与论文](https://mp.weixin.qq.com/s/gAsaa7fAraE5B-vm_izFTg?client=tim&ADUIN=727850024&ADSESSION=1577595981&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
 4. [剑桥大学-教授-读论文技巧](https://mp.weixin.qq.com/s/5oiHcsgNPYND9TF8oVcKBQ?client=tim&ADUIN=727850024&ADSESSION=1577593670&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
 5. [清华大学-刘洋-浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/dK53a5M79VJnH7sas0BcUQ)
-6. [GPU选购指南-2019](https://mp.weixin.qq.com/s/a-b4q3_o19KGXF125qBa_A?client=tim&ADUIN=727850024&ADSESSION=1584534264&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
-7. [MIT-温斯顿教授-如何演讲 How to Speak？](https://mp.weixin.qq.com/s/fLl0i_1bQ6Eyr7FHRp8BWw)
+6. [MIT-温斯顿教授-如何演讲 How to Speak？](https://mp.weixin.qq.com/s/fLl0i_1bQ6Eyr7FHRp8BWw)
+7. [读文献效率提升 5 倍，这些方法值得一试](https://mp.weixin.qq.com/s/tD8DMRGHKKYNiZMhnUqSpA)
+8. [毕导-一个科研老狗给研究生新生的99条建议](https://mp.weixin.qq.com/s/ULVleOmXSfTR2AVgFvJeIw)
+9. [告研究生新生书](https://mp.weixin.qq.com/s/GZ8plpfZcpypKAn-38gW1Q)
+10. [喻海良：研究生第一篇学术论文普遍存在的9个问题](https://mp.weixin.qq.com/s/fQMISTI8lpCNDePs2ZYbHQ)
+11. [沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题](https://mp.weixin.qq.com/s/GKgwudxwUN4kvZfjeoUdEg)
+12. [暑假即将开始，导师十问课题组研究生！](https://mp.weixin.qq.com/s/1OQd-s24n5X-bXT4adgwag)
+13. [真正优秀的学生是不用导师push](https://mp.weixin.qq.com/s/d1c6ZVw5XSSHOXsuKqrGnA)
+
+<figure>
+<a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG"></a>
+</figure>
+
+### SCI经验
+1. [SCI论文写作指南](https://mp.weixin.qq.com/s/Py7VCZeQuaSfh6_OnzPi7Q)
+2. [如何撰写科研论文的引言部分？干货分享！](https://mp.weixin.qq.com/s/PyRQhRyYy5UAl4wXnQ9NQg)
+3. [SCI论文 Introduction常用句式总结（上）](https://zhuanlan.zhihu.com/p/259626565?utm_source=wechat_session&utm_medium=social&utm_oi=1009513959996628992&s_r=0)
+4. [SCI论文 Introduction常用句式总结（下）](https://zhuanlan.zhihu.com/p/261293787?utm_source=wechat_session&utm_medium=social&utm_oi=1009513959996628992&s_r=0)
+5. []()
 
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
