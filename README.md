@@ -95,6 +95,9 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 2. [从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络 (二)](https://zhuanlan.zhihu.com/p/108298787)
 3. [从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络 (三)](https://zhuanlan.zhihu.com/p/108299847)
 
+### Attention机制
+1. [重新思考深度学习中的Attention机制](https://mp.weixin.qq.com/s/xHU-9tnDZyMi64Fvs_0ioA)
+
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
 
