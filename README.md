@@ -84,6 +84,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 11. [SCI论文 Introduction常用句式总结（上）](https://zhuanlan.zhihu.com/p/259626565?utm_source=wechat_session&utm_medium=social&utm_oi=1009513959996628992&s_r=0)
 12. [SCI论文 Introduction常用句式总结（下）](https://zhuanlan.zhihu.com/p/261293787?utm_source=wechat_session&utm_medium=social&utm_oi=1009513959996628992&s_r=0)
 13. [喻海良：研究生第一篇学术论文普遍存在的9个问题](https://mp.weixin.qq.com/s/fQMISTI8lpCNDePs2ZYbHQ)
+14. [好论文是如何炼成的](http://blog.sina.com.cn/s/blog_4caedc7a0100kie4.html)
 
 <figure>
 <a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/paper-scheme.jpg"></a>
