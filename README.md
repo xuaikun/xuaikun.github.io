@@ -103,6 +103,9 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 2. [导师评价网-网页](https://kgco.github.io/RateMySupervisor/html/index.html?utm_source=wechat_session&utm_medium=social&utm_oi=858349756462821376)
 3. [导师评价网--翻墙--有偿](https://www.mysupervisor.org/)
 
+### 生活经验
+1. [总觉得累？是您放松方式没找对！](https://mp.weixin.qq.com/s/0UnLN4kNkdYHqDNgT7pjjw)
+
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
 
