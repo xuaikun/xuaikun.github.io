@@ -1,6 +1,9 @@
 # 徐爱昆(Aikun Xu)
 ## 欢迎来到我的主页
-
+## 坚持“感恩，奉献，尊重，共享”
+### “千里马常有，伯乐不常有”
+### “愿用十分专注的努力换一分踏实的收获”
+### “笨鸟先飞”
 <figure>
 <a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG"></a>
 </figure>
