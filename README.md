@@ -98,6 +98,11 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 ### Attention机制
 1. [重新思考深度学习中的Attention机制](https://mp.weixin.qq.com/s/xHU-9tnDZyMi64Fvs_0ioA)
 
+### 选boss经验
+1. [导师评价网数据-GitHub链接](https://github.com/kgco/RateMySupervisor?utm_source=wechat_session&utm_medium=social&utm_oi=858349756462821376)
+2. [导师评价网-网页](https://kgco.github.io/RateMySupervisor/html/index.html?utm_source=wechat_session&utm_medium=social&utm_oi=858349756462821376)
+3. [导师评价网--翻墙--有偿](https://www.mysupervisor.org/)
+
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
 
