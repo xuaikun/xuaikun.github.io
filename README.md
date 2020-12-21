@@ -74,6 +74,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 7. [真正优秀的学生是不用导师push](https://mp.weixin.qq.com/s/d1c6ZVw5XSSHOXsuKqrGnA)
 8. [中国人民大学-赵鑫-计算机系本科生开展科研学习的九问九答](https://mp.weixin.qq.com/s/Xql8W2bbDLT2ouE_E5mYCA)
 9. [微软-沈向洋-自述：在实现职业目标的道路上，我得到了七个教训](https://mp.weixin.qq.com/s/cN-85yTCx9ax9X3FxZeZrQ)
+10. [中科院-包云岗：是什么造成了学术界的科学精神之殇？](https://mp.weixin.qq.com/s/XCHm4pLGSZNjolChAW--aw)
 
 ### 论文经验
 1. [研究生的早期科研之路](https://mp.weixin.qq.com/s/MDB_er6rfKhXkDp-m1w-tg)
@@ -90,18 +91,22 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 12. [SCI论文 Introduction常用句式总结（下）](https://zhuanlan.zhihu.com/p/261293787?utm_source=wechat_session&utm_medium=social&utm_oi=1009513959996628992&s_r=0)
 13. [喻海良：研究生第一篇学术论文普遍存在的9个问题](https://mp.weixin.qq.com/s/fQMISTI8lpCNDePs2ZYbHQ)
 14. [好论文是如何炼成的](http://blog.sina.com.cn/s/blog_4caedc7a0100kie4.html)
+15. [“你的论文充斥着垃圾，写作一塌糊涂，我读着读着都想撕了它”](https://mp.weixin.qq.com/s/TyJDV8ffjVDXQs8NQm-mbQ)
 
 <figure>
 <a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/paper-scheme.jpg"></a>
 </figure>
 
-### 阅读的博客
+### 图神经网络
 1. [从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络 (一)](https://zhuanlan.zhihu.com/p/108294485)
 2. [从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络 (二)](https://zhuanlan.zhihu.com/p/108298787)
 3. [从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络 (三)](https://zhuanlan.zhihu.com/p/108299847)
+4. [我们真的需要深度图神经网络吗？](https://mp.weixin.qq.com/s/Y0m5ziWoRCK0PeWu7ztERg)
+5. [清华大学发布首个自动图机器学习工具包AutoGL，开源易用可扩展，支持自定义模型](https://mp.weixin.qq.com/s/Khk7M_lamzbQdYvnuAzSzw)
 
 ### Attention机制
 1. [重新思考深度学习中的Attention机制](https://mp.weixin.qq.com/s/xHU-9tnDZyMi64Fvs_0ioA)
+2. [LinkedIN最新《注意力模型》综述论文大全，20页pdf](https://mp.weixin.qq.com/s/bl1MsrvSvgQQnqigQjvVdw)
 
 ### 选boss经验
 1. [导师评价网数据-GitHub链接](https://github.com/kgco/RateMySupervisor?utm_source=wechat_session&utm_medium=social&utm_oi=858349756462821376)
