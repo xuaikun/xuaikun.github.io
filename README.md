@@ -92,6 +92,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 13. [喻海良：研究生第一篇学术论文普遍存在的9个问题](https://mp.weixin.qq.com/s/fQMISTI8lpCNDePs2ZYbHQ)
 14. [好论文是如何炼成的](http://blog.sina.com.cn/s/blog_4caedc7a0100kie4.html)
 15. [“你的论文充斥着垃圾，写作一塌糊涂，我读着读着都想撕了它”](https://mp.weixin.qq.com/s/TyJDV8ffjVDXQs8NQm-mbQ)
+16. [我的第一篇学术论文诞生的故事](https://mp.weixin.qq.com/s/eB56SnrSkkItoR6_jaZAWQ)
 
 <figure>
 <a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/paper-scheme.jpg"></a>
@@ -107,6 +108,9 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 ### Attention机制
 1. [重新思考深度学习中的Attention机制](https://mp.weixin.qq.com/s/xHU-9tnDZyMi64Fvs_0ioA)
 2. [LinkedIN最新《注意力模型》综述论文大全，20页pdf](https://mp.weixin.qq.com/s/bl1MsrvSvgQQnqigQjvVdw)
+
+### 多模态深度学习
+1. [多模态深度学习综述：网络结构设计和模态融合方法汇总](https://mp.weixin.qq.com/s/_LTxBrLSyMV3BIze7D56LA)
 
 ### 选boss经验
 1. [导师评价网数据-GitHub链接](https://github.com/kgco/RateMySupervisor?utm_source=wechat_session&utm_medium=social&utm_oi=858349756462821376)
