@@ -75,6 +75,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 8. [中国人民大学-赵鑫-计算机系本科生开展科研学习的九问九答](https://mp.weixin.qq.com/s/Xql8W2bbDLT2ouE_E5mYCA)
 9. [微软-沈向洋-自述：在实现职业目标的道路上，我得到了七个教训](https://mp.weixin.qq.com/s/cN-85yTCx9ax9X3FxZeZrQ)
 10. [中科院-包云岗：是什么造成了学术界的科学精神之殇？](https://mp.weixin.qq.com/s/XCHm4pLGSZNjolChAW--aw)
+11. [哥大-5年博士总结](https://mp.weixin.qq.com/s/A_FWUR7N204LId8ZFGv0BA)
 
 ### 论文经验
 1. [研究生的早期科研之路](https://mp.weixin.qq.com/s/MDB_er6rfKhXkDp-m1w-tg)
