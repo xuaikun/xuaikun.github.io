@@ -6,6 +6,7 @@
 ### 愿意“用十分专注的努力换一分踏实的收获”
 ### 懂得“笨鸟先飞”
 ### 明白“知规矩，懂常识”的重要性
+### “己所不欲勿施于人”
 <figure>
 <a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/photo.JPG"></a>
 </figure>
