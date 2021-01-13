@@ -64,6 +64,8 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 4. [在线版Latex](https://www.overleaf.com/)
 5. [阿里开源图库](https://www.iconfont.cn/search/index?q=)
 6. [GPU选购指南-2019](https://mp.weixin.qq.com/s/a-b4q3_o19KGXF125qBa_A?client=tim&ADUIN=727850024&ADSESSION=1584534264&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
+7. [文献管理工具-Mendeley](https://www.mendeley.com/download-desktop-new/)
+8. [Mendeley的简单使用教程](https://zhuanlan.zhihu.com/p/65992720)
 
 ### 科研经验
 1. [厦门大学纪荣嵘老师团队的科研资源](https://mac.xmu.edu.cn/resources.htm)
