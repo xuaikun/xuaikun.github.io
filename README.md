@@ -104,6 +104,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 14. [好论文是如何炼成的](http://blog.sina.com.cn/s/blog_4caedc7a0100kie4.html)
 15. [“你的论文充斥着垃圾，写作一塌糊涂，我读着读着都想撕了它”](https://mp.weixin.qq.com/s/TyJDV8ffjVDXQs8NQm-mbQ)
 16. [我的第一篇学术论文诞生的故事](https://mp.weixin.qq.com/s/eB56SnrSkkItoR6_jaZAWQ)
+17. [如何查找外文文献？从阅读到写作，这一篇讲全了](https://mp.weixin.qq.com/s/zBlcOL-glA2mSK7NrnEe8g)
 
 <figure>
 <a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/paper-scheme.jpg"></a>
