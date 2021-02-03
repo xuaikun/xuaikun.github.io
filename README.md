@@ -72,6 +72,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 6. [GPU选购指南-2019](https://mp.weixin.qq.com/s/a-b4q3_o19KGXF125qBa_A?client=tim&ADUIN=727850024&ADSESSION=1584534264&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882)
 7. [文献管理工具-Mendeley](https://www.mendeley.com/download-desktop-new/)
 8. [Mendeley的简单使用教程](https://zhuanlan.zhihu.com/p/65992720)
+9. [论文&代码Papers With Code](https://mp.weixin.qq.com/s/FiLbFVCIo8v1Dx-FQktHAA)
 
 ### 科研经验
 1. [厦门大学纪荣嵘老师团队的科研资源](https://mac.xmu.edu.cn/resources.htm)
@@ -108,6 +109,9 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 <a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/paper-scheme.jpg"></a>
 </figure>
 
+### 重要课程
+1. [斯坦福大学——人工智能本科4年课程清单](https://mp.weixin.qq.com/s/FiLbFVCIo8v1Dx-FQktHAA)
+
 ### 图神经网络
 1. [从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络 (一)](https://zhuanlan.zhihu.com/p/108294485)
 2. [从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络 (二)](https://zhuanlan.zhihu.com/p/108298787)
@@ -118,6 +122,8 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 ### Attention机制
 1. [重新思考深度学习中的Attention机制](https://mp.weixin.qq.com/s/xHU-9tnDZyMi64Fvs_0ioA)
 2. [LinkedIN最新《注意力模型》综述论文大全，20页pdf](https://mp.weixin.qq.com/s/bl1MsrvSvgQQnqigQjvVdw)
+3. [Transformer家族简史（PART I）](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247491693&idx=2&sn=2032f9a45e49fafc13a6e3ded23e1c39&chksm=97ad06bfa0da8fa9f60a0f6dca283acf281695eba4db1a5d7837b39750019d8c402384681497&scene=21#wechat_redirect)
+4. [Transformer家族简史（PART II）](https://mp.weixin.qq.com/s/SPllU8IxvnqEK8Xud-1w-w)
 
 ### 多模态深度学习
 1. [多模态深度学习综述：网络结构设计和模态融合方法汇总](https://mp.weixin.qq.com/s/_LTxBrLSyMV3BIze7D56LA)
