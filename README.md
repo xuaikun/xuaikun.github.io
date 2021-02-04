@@ -140,7 +140,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 
 ### 申请博士
 1. [如何申请国内博士](https://zhuanlan.zhihu.com/p/56189172?utm_source=wechat_session&utm_medium=social&s_r=0)
-
+2. [我是如何在3个月内写出博士论文的？](https://mp.weixin.qq.com/s/NtBnDcgUmnEuqd-uVe9Hqg)
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
 
