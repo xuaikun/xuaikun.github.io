@@ -74,6 +74,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 7. [文献管理工具-Mendeley](https://www.mendeley.com/download-desktop-new/)
 8. [Mendeley的简单使用教程](https://zhuanlan.zhihu.com/p/65992720)
 9. [论文&代码Papers With Code](https://mp.weixin.qq.com/s/FiLbFVCIo8v1Dx-FQktHAA)
+10. [在线PDF转Word](https://www.pdfonline.com/pdf-to-word-converter/)
 
 ### 科研经验
 1. [厦门大学纪荣嵘老师团队的科研资源](https://mac.xmu.edu.cn/resources.htm)
