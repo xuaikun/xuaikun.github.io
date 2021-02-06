@@ -16,10 +16,10 @@
 
 我的研究方向：前期主要做WSN和WRSN中的网络优化以及Shared E-Bike和EV背景下的充电调度，目前主要做与深度学习相关的研究。
 
-目前在投SCI期刊论文4篇(导师一作，本人二作)：
+目前在投SCI期刊论文2篇，录用期刊论文2篇，发表会议论文1篇(导师一作，本人二作)：
 
 1篇被[PMC](https://www.editorialmanager.com/PMC/default.aspx)录用；
-1篇[IJSNET](https://www.inderscience.com/login.php)二审；
+1篇被[IJSNET](https://www.inderscience.com/login.php)录用；
 1篇[TOSN](https://mc.manuscriptcentral.com/tosn)一审；
 1篇[IEEE Transactions on Smart Grid](https://mc.manuscriptcentral.com/tsg-pes)一审。
 
