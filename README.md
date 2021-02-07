@@ -75,6 +75,11 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 8. [Mendeley的简单使用教程](https://zhuanlan.zhihu.com/p/65992720)
 9. [论文&代码Papers With Code](https://mp.weixin.qq.com/s/FiLbFVCIo8v1Dx-FQktHAA)
 10. [在线PDF转Word](https://www.pdfonline.com/pdf-to-word-converter/)
+11. [在线语法检测](https://app.grammarly.com/ddocs/931980245)
+12. [检查句子的工具](https://linggle.com/)
+13. [论文公式工具](https://mathpix.com/)
+14. [实用工具](https://mmbiz.qpic.cn/mmbiz_jpg/33P2FdAnjuib5kjO87jW2sH7QspAqpO9ELVFFiciapSjsDUJEtZ3yD1eDLTySvyzOnBZv57hric7e3VL3Sib4uo91fA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
 
 ### 科研经验
 1. [厦门大学纪荣嵘老师团队的科研资源](https://mac.xmu.edu.cn/resources.htm)
