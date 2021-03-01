@@ -141,6 +141,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 2. [导师评价网-网页](https://kgco.github.io/RateMySupervisor/html/index.html?utm_source=wechat_session&utm_medium=social&utm_oi=858349756462821376)
 3. [导师评价网--翻墙--有偿](https://www.mysupervisor.org/)
 4. [《自然》2020年度最受欢迎的导师是怎么带学生的？](https://mp.weixin.qq.com/s/3tHZQY9NOR1PkD8kaFC9kg)
+5. [26岁一年一作发4篇Cell，他说搞科研要有“十诫”](https://mp.weixin.qq.com/s/kyfExXdH5ur8Hus1s1l2Hg)
 
 ### 生活经验
 1. [总觉得累？是您放松方式没找对！](https://mp.weixin.qq.com/s/0UnLN4kNkdYHqDNgT7pjjw)
