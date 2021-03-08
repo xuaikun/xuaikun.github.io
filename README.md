@@ -79,6 +79,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 12. [检查句子的工具](https://linggle.com/)
 13. [论文公式工具](https://mathpix.com/)
 14. [实用工具](https://mmbiz.qpic.cn/mmbiz_jpg/33P2FdAnjuib5kjO87jW2sH7QspAqpO9ELVFFiciapSjsDUJEtZ3yD1eDLTySvyzOnBZv57hric7e3VL3Sib4uo91fA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+15. [中南大学自动打卡程序-老蒋的](http://www.jzystc.com/sign/)
 
 
 ### 科研经验
@@ -149,9 +150,9 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 ### 申请博士
 1. [如何申请国内博士](https://zhuanlan.zhihu.com/p/56189172?utm_source=wechat_session&utm_medium=social&s_r=0)
 2. [我是如何在3个月内写出博士论文的？](https://mp.weixin.qq.com/s/NtBnDcgUmnEuqd-uVe9Hqg)
+
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
-
 
 ## Note
 ### Markdown
