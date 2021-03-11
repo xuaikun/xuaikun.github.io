@@ -154,6 +154,12 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 3. [蒲慕明：博士研究生如何做创新性研究？](https://mp.weixin.qq.com/s/YM5e-PmM13BtwJ-WIog71A)
 4. [我的考博故事：选择大于努力，一位好导师的助力](https://mp.weixin.qq.com/s/VLVJO8f7Oz-TACQO9fHxHQ)
 
+### 投资理财
+1.[全球货币大放水的时代，普通人该如何投资？](https://mp.weixin.qq.com/s/UopAKWYuDcQmdCioyJf8Yw)
+2.[股市再突破，普通人能从中获利吗？](https://mp.weixin.qq.com/s/9oV2w_ft0jJlGpZFUboHaQ)
+3.[在不久的未来，股市可能有一场大暴跌！](https://mp.weixin.qq.com/s/5jf7Eo7CPmIyjm9De7jC7Q)
+4.[股市大调整，基金需要赎回吗？](https://mp.weixin.qq.com/s/Ci0WmQONPMXmboaDG6XpIA)
+
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
 
