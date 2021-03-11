@@ -151,6 +151,8 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 ### 申请博士
 1. [如何申请国内博士](https://zhuanlan.zhihu.com/p/56189172?utm_source=wechat_session&utm_medium=social&s_r=0)
 2. [我是如何在3个月内写出博士论文的？](https://mp.weixin.qq.com/s/NtBnDcgUmnEuqd-uVe9Hqg)
+3. [蒲慕明：博士研究生如何做创新性研究？](https://mp.weixin.qq.com/s/YM5e-PmM13BtwJ-WIog71A)
+4. [我的考博故事：选择大于努力，一位好导师的助力](https://mp.weixin.qq.com/s/VLVJO8f7Oz-TACQO9fHxHQ)
 
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
