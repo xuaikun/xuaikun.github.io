@@ -161,7 +161,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 4. [股市大调整，基金需要赎回吗？](https://mp.weixin.qq.com/s/Ci0WmQONPMXmboaDG6XpIA)  
 
 ### 工作经验
-1.[「冒名顶替综合征，还是我真的不行？」硕士学位、4年CS工作经验，但我感觉自己什么都不会](https://mp.weixin.qq.com/s/GyqtyEuZssaZHDi9hR6oGg)
+1. [「冒名顶替综合征，还是我真的不行？」硕士学位、4年CS工作经验，但我感觉自己什么都不会](https://mp.weixin.qq.com/s/GyqtyEuZssaZHDi9hR6oGg)
 
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
