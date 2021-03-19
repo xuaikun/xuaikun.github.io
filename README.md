@@ -115,6 +115,9 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 16. [我的第一篇学术论文诞生的故事](https://mp.weixin.qq.com/s/eB56SnrSkkItoR6_jaZAWQ)
 17. [如何查找外文文献？从阅读到写作，这一篇讲全了](https://mp.weixin.qq.com/s/zBlcOL-glA2mSK7NrnEe8g)
 
+### 写作经验
+1. [简单点，让论文写作简单点，老牌名校助理教授给出8个建议](https://mp.weixin.qq.com/s/91EEiq8tMb4lG2ldyW6e-Q)
+
 <figure>
 <a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/paper-scheme.jpg"></a>
 </figure>
@@ -162,6 +165,10 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 
 ### 工作经验
 1. [「冒名顶替综合征，还是我真的不行？」硕士学位、4年CS工作经验，但我感觉自己什么都不会](https://mp.weixin.qq.com/s/GyqtyEuZssaZHDi9hR6oGg)
+2. [计算机类工作面试经验](https://github.com/xuaikun/CS-Notes)
+3. [经典的编程书单大全](https://github.com/xuaikun/awesome-cs-books)
+4. [955公司名单](https://github.com/xuaikun/955.WLB)
+5. [Leetcode经验](https://github.com/xuaikun/fucking-algorithm)
 
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
