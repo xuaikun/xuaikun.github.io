@@ -169,6 +169,8 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 3. [经典的编程书单大全](https://github.com/xuaikun/awesome-cs-books)
 4. [955公司名单](https://github.com/xuaikun/955.WLB)
 5. [Leetcode经验](https://github.com/xuaikun/fucking-algorithm)
+### 编码工具
+1. [c++编辑+编译器~dev]()
 
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
