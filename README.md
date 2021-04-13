@@ -170,7 +170,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 4. [955公司名单](https://github.com/xuaikun/955.WLB)
 5. [Leetcode经验](https://github.com/xuaikun/fucking-algorithm)
 ### 编码工具
-1. [c++编辑+编译器~dev]()
+1. [c++编辑+编译器~dev](https://sourceforge.net/projects/orwelldevcpp/)
 
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
