@@ -80,6 +80,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 13. [论文公式工具](https://mathpix.com/)
 14. [实用工具](https://mmbiz.qpic.cn/mmbiz_jpg/33P2FdAnjuib5kjO87jW2sH7QspAqpO9ELVFFiciapSjsDUJEtZ3yD1eDLTySvyzOnBZv57hric7e3VL3Sib4uo91fA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 15. [中南大学自动打卡程序-老蒋的](http://www.jzystc.com/sign/)
+16. [复制即翻译](https://github.com/CopyTranslator/CopyTranslator/blob/master/README_zh.md)
 
 
 ### 科研经验
