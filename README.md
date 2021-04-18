@@ -156,6 +156,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 2. [我是如何在3个月内写出博士论文的？](https://mp.weixin.qq.com/s/NtBnDcgUmnEuqd-uVe9Hqg)
 3. [蒲慕明：博士研究生如何做创新性研究？](https://mp.weixin.qq.com/s/YM5e-PmM13BtwJ-WIog71A)
 4. [我的考博故事：选择大于努力，一位好导师的助力](https://mp.weixin.qq.com/s/VLVJO8f7Oz-TACQO9fHxHQ)
+5. [哪些人适合读博？中南大学博导：如果符合这几条，或不适合读博](https://mp.weixin.qq.com/s/LkFWONZa1sYvVO0Fdhw0Tw)
 
 ### 投资理财
 1. [全球货币大放水的时代，普通人该如何投资？](https://mp.weixin.qq.com/s/UopAKWYuDcQmdCioyJf8Yw)  
