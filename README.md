@@ -171,6 +171,10 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 3. [经典的编程书单大全](https://github.com/xuaikun/awesome-cs-books)
 4. [955公司名单](https://github.com/xuaikun/955.WLB)
 5. [Leetcode经验](https://github.com/xuaikun/fucking-algorithm)
+6. [牛客网-->笔试，动态规划，双指针，背包问题，二分查找](https://www.nowcoder.com/)
+7. [leetcode-->面试，链表等](https://leetcode-cn.com/problemset/all/)
+8. 华为：第一题：100，第二题：200，第三题：300，超100分，过笔试
+
 ### 编码工具
 1. [c++编辑+编译器~dev](https://sourceforge.net/projects/orwelldevcpp/)
 
