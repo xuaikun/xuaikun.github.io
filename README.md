@@ -19,7 +19,7 @@
 目前在投SCI期刊论文2篇，录用期刊论文2篇，发表会议论文1篇(导师一作，本人二作)：
 
 1篇被MSN'19录用并发表；
-1篇被[PMC](https://www.editorialmanager.com/PMC/default.aspx)录用；
+1篇被[PMC](https://www.sciencedirect.com/science/article/pii/S1574119221000560?dgcid=coauthor)录用并发表；
 1篇被[IJSNET](https://www.inderscience.com/login.php)录用；
 1篇[IJCS](https://mc.manuscriptcentral.com/ijcs)一审；
 1篇[IEEE Transactions on Smart Grid](https://mc.manuscriptcentral.com/tsg-pes)一审。
