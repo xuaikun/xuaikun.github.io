@@ -161,6 +161,12 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 4. [我的考博故事：选择大于努力，一位好导师的助力](https://mp.weixin.qq.com/s/VLVJO8f7Oz-TACQO9fHxHQ)
 5. [哪些人适合读博？中南大学博导：如果符合这几条，或不适合读博](https://mp.weixin.qq.com/s/LkFWONZa1sYvVO0Fdhw0Tw)
 
+### 读博经验
+1. [如何做出牛的研究？GAT作者DeepMind研究科学家Petar谈论自己读博科研经验，为您指点一二](https://mp.weixin.qq.com/s/XqpYda2hX_TCPfuTPk2vdg)
+(1) 要找大牛组实习；
+(2) 对自己的想法“硬编码”验证；
+(3) 先投Workshop来通过圈内人Review反馈自己的工作；
+
 ### 投资理财
 1. [全球货币大放水的时代，普通人该如何投资？](https://mp.weixin.qq.com/s/UopAKWYuDcQmdCioyJf8Yw)  
 2. [股市再突破，普通人能从中获利吗？](https://mp.weixin.qq.com/s/9oV2w_ft0jJlGpZFUboHaQ)  
