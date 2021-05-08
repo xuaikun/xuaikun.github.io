@@ -21,7 +21,7 @@
 1篇被MSN'19录用并发表；
 1篇被[PMC](https://www.sciencedirect.com/science/article/pii/S1574119221000560?dgcid=coauthor)录用并发表；
 1篇被[IJSNET](https://www.inderscience.com/login.php)录用；
-1篇[IJCS](https://mc.manuscriptcentral.com/ijcs)一审；
+1篇[IJCS](https://mc.manuscriptcentral.com/ijcs)二审；
 1篇[IEEE Transactions on Smart Grid](https://mc.manuscriptcentral.com/tsg-pes)一审。
 
 链接：[https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx](https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx)
