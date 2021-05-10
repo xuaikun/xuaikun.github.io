@@ -52,7 +52,7 @@
 dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 
 ### 我的项目
-1. 2020年 中南大学 创新类研究生项目《面向厂区货车的融合式导航系统研究》 "the Innovation Training Grant for Students of Central South University (No. GCX2020347Y)", 主持, 结题.
+1. 2020年 中南大学 创新类研究生项目《面向厂区货车的融合式导航系统研究》 "the Innovation Training Grant for Students of Central South University (No. GCX2020347Y)", 主持, 已结题.
 2. 2021年 中南大学 研究生创新训练项目《具有个性化和情境感知的多模态交通推荐算法研究》“the Fundamental Research Funds for the Central Universities of Central South University (China) under Grant (No. 2021zzts698）”,主持,在研.
 3. 2021年 中南大学 研究生创新训练项目《面向机器人的适应性智能导航与场景感知》“the Fundamental Research Funds for the Central Universities of Central South University (China) under Grant (No. 2021zzts716）”, 参与,在研.
 
