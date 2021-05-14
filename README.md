@@ -138,6 +138,8 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 3. [从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络 (三)](https://zhuanlan.zhihu.com/p/108299847)
 4. [我们真的需要深度图神经网络吗？](https://mp.weixin.qq.com/s/Y0m5ziWoRCK0PeWu7ztERg)
 5. [清华大学发布首个自动图机器学习工具包AutoGL，开源易用可扩展，支持自定义模型](https://mp.weixin.qq.com/s/Khk7M_lamzbQdYvnuAzSzw)
+6. [图神经网络从入门到入门](https://mp.weixin.qq.com/s/Eolw4YHgXtcKq32Is2ysBw)
+7. [21年最新最全Graph Learning算法](https://mp.weixin.qq.com/s/FpBawuJrD54Hk1_GMO4tSg)
 
 ### Attention机制
 1. [重新思考深度学习中的Attention机制](https://mp.weixin.qq.com/s/xHU-9tnDZyMi64Fvs_0ioA)
