@@ -178,6 +178,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 2. [股市再突破，普通人能从中获利吗？](https://mp.weixin.qq.com/s/9oV2w_ft0jJlGpZFUboHaQ)  
 3. [在不久的未来，股市可能有一场大暴跌！](https://mp.weixin.qq.com/s/5jf7Eo7CPmIyjm9De7jC7Q)  
 4. [股市大调整，基金需要赎回吗？](https://mp.weixin.qq.com/s/Ci0WmQONPMXmboaDG6XpIA)  
+5. [理财工具之华宝zhengquan](https://mp.weixin.qq.com/s/8hdr6-C-c7wV1QwValp0uQ)
 
 ### 工作经验
 1. [「冒名顶替综合征，还是我真的不行？」硕士学位、4年CS工作经验，但我感觉自己什么都不会](https://mp.weixin.qq.com/s/GyqtyEuZssaZHDi9hR6oGg)
