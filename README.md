@@ -22,7 +22,7 @@
 1篇被[PMC](https://www.sciencedirect.com/science/article/pii/S1574119221000560?dgcid=coauthor)录用并发表；
 1篇被[IJSNET](https://www.inderscience.com/login.php)录用；
 1篇[IJCS](https://mc.manuscriptcentral.com/ijcs)二审；
-1篇[IEEE TVT](https://mc.manuscriptcentral.com/tvt-ieee)一审。
+1篇[IEEE TVT](https://mc.manuscriptcentral.com/tvt-ieee)一审（2021-5-25投）。
 
 链接：[https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx](https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx)
 
@@ -173,6 +173,9 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 (2) 对自己的想法“硬编码”验证；
 (3) 先投Workshop来通过圈内人Review反馈自己的工作；
 
+### 读博可看
+1. [UC伯克利马毅ICML投稿得到4个评审接收却仍遭AC拒绝！自称论文泄露了深度学习的天机](https://mp.weixin.qq.com/s/i1JsgVdLi_kxjpnSe-OL3w)
+
 ### 投资理财
 1. [全球货币大放水的时代，普通人该如何投资？](https://mp.weixin.qq.com/s/UopAKWYuDcQmdCioyJf8Yw)  
 2. [股市再突破，普通人能从中获利吗？](https://mp.weixin.qq.com/s/9oV2w_ft0jJlGpZFUboHaQ)  
@@ -190,6 +193,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 7. [leetcode-->面试，链表等](https://leetcode-cn.com/problemset/all/)
 8. [OJ在线编程常见输入输出练习](https://www.nowcoder.com/test/27976983/summary#question)
 9. 华为：第一题：100，第二题：200，第三题：300，超100分，过笔试
+10. [李沐：工作五年反思](https://mp.weixin.qq.com/s/f0DdF9OnUB9HG8M2S6gCSQ)
 
 ### 编码工具
 1. [c++编辑+编译器~dev](https://sourceforge.net/projects/orwelldevcpp/)
