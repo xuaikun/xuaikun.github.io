@@ -21,7 +21,7 @@
 1篇被MSN'19录用并发表；
 1篇被[PMC](https://www.sciencedirect.com/science/article/pii/S1574119221000560?dgcid=coauthor)录用并发表；
 1篇被[IJSNET](https://www.inderscience.com/login.php)录用；
-1篇[IJCS](https://mc.manuscriptcentral.com/ijcs),[IJCS新投稿系统](https://onlinelibrary.wiley.com/journal/10991131)二审；
+1篇[IJCS老投稿系统](https://mc.manuscriptcentral.com/ijcs),[IJCS主页](https://onlinelibrary.wiley.com/journal/10991131)，[IJCS新投稿系统](https://wiley.atyponrex.com/qualifications/949f7f1a-bdea-422d-8232-91aa5cadaf01)二审；
 1篇[IEEE TVT](https://mc.manuscriptcentral.com/tvt-ieee)一审（2021-5-25投）。
 
 链接：[https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx](https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx)
