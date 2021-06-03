@@ -199,6 +199,9 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 ### 编码工具
 1. [c++编辑+编译器~dev](https://sourceforge.net/projects/orwelldevcpp/)
 
+### 公务员
+1. [各地公务员收入分别是多少？](https://www.zhihu.com/question/441857563/answer/1737438814)
+
 ### 联系方式
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
 
