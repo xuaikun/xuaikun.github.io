@@ -14,10 +14,9 @@
 
 我目前在中南大学计算机学院攻读硕士学位(中国，[长沙](https://mp.weixin.qq.com/s/rtFh1uchnULp-ZG7WmLqbg))。我在中南民族大学计算机科学学院获得学士学位(中国，武汉)。
 
-我的研究方向：前期主要做WSN和WRSN中的网络优化以及Shared E-Bike和EV背景下的充电调度，目前主要做与深度学习相关的研究。
+我的研究方向：前期主要做WSN和WRSN中的网络优化以及Shared E-Bike和EV背景下的充电调度，目前主要做与深度学习相关的研究，比如：图神经网络。
 
-目前在投SCI期刊论文2篇，录用期刊论文2篇，发表会议论文1篇(导师一作，本人二作)：
-
+目前在投SCI期刊论文1篇，录用期刊论文4篇，发表会议论文2篇(导师一作，本人二作)：
 1. 1篇被MSN'19录用并发表；
 2. 1篇被[PMC](https://www.sciencedirect.com/science/article/pii/S1574119221000560?dgcid=coauthor)录用并发表；
 3. 1篇被[IJSNET](https://www.inderscience.com/login.php)录用；
