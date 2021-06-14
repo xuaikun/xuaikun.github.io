@@ -18,20 +18,19 @@
 
 目前在投SCI期刊论文2篇，录用期刊论文2篇，发表会议论文1篇(导师一作，本人二作)：
 
-1篇被MSN'19录用并发表；
-1篇被[PMC](https://www.sciencedirect.com/science/article/pii/S1574119221000560?dgcid=coauthor)录用并发表；
-1篇被[IJSNET](https://www.inderscience.com/login.php)录用；
-1篇[IJCS老投稿系统](https://mc.manuscriptcentral.com/ijcs),[IJCS主页](https://onlinelibrary.wiley.com/journal/10991131)，[IJCS新投稿系统](https://wiley.atyponrex.com/qualifications/949f7f1a-bdea-422d-8232-91aa5cadaf01)录用；
-1篇[IEEE TVT](https://mc.manuscriptcentral.com/tvt-ieee)一审（2021-5-25投）。
+1. 1篇被MSN'19录用并发表；
+2. 1篇被[PMC](https://www.sciencedirect.com/science/article/pii/S1574119221000560?dgcid=coauthor)录用并发表；
+3. 1篇被[IJSNET](https://www.inderscience.com/login.php)录用；
+4. 1篇[IJCS老投稿系统](https://mc.manuscriptcentral.com/ijcs),[IJCS主页](https://onlinelibrary.wiley.com/journal/10991131)，[IJCS新投稿系统](https://wiley.atyponrex.com/qualifications/949f7f1a-bdea-422d-8232-91aa5cadaf01)录用；
+5. 1篇[IEEE TVT](https://mc.manuscriptcentral.com/tvt-ieee)一审（2021-5-25投）。
 
 链接：[https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx](https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx)
 
 （Aikun Xu is currently a master's student in the School of Computer Science and Engineering, Central South University, Changsha, China. He received a B.S. degree from the School of Computer Science at South-Central University for Nationalities, Wuhan, China, in 2019. His research interests include machine learning, scheduling, electric vehicles, and wireless networks.）
 
 ## 教育经历
-2015年9月~2019年8月 中南民族大学 学士学位，共青团员（导师：康怡琳 [CV](https://www.scuec.edu.cn/jky/info/1027/2289.htm)，南洋理工大学）
-
-2019年9月至今 中南大学 硕士学位（2019级在读学术型硕士研究生，推免），中共预备党员（导师：钟萍 [CV](https://faculty.csu.edu.cn/zhongping/zh_CN/index/76687/list/index.htm)，剑桥大学）
+1. 2015年9月~2019年8月 中南民族大学 学士学位，共青团员（导师：康怡琳 [CV](https://www.scuec.edu.cn/jky/info/1027/2289.htm)，南洋理工大学）
+2. 2019年9月至今 中南大学 硕士学位（2019级在读学术型硕士研究生，推免），中共预备党员（导师：钟萍 [CV](https://faculty.csu.edu.cn/zhongping/zh_CN/index/76687/list/index.htm)，剑桥大学）
 
 ### 实习经历
 2018年11月~2019年1月 [武汉全品教育科技有限公司](http://www.canpointlive.com/) 图像处理项目(已开源)
