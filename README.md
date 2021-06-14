@@ -21,7 +21,7 @@
 1篇被MSN'19录用并发表；
 1篇被[PMC](https://www.sciencedirect.com/science/article/pii/S1574119221000560?dgcid=coauthor)录用并发表；
 1篇被[IJSNET](https://www.inderscience.com/login.php)录用；
-1篇[IJCS老投稿系统](https://mc.manuscriptcentral.com/ijcs),[IJCS主页](https://onlinelibrary.wiley.com/journal/10991131)，[IJCS新投稿系统](https://wiley.atyponrex.com/qualifications/949f7f1a-bdea-422d-8232-91aa5cadaf01)二审；
+1篇[IJCS老投稿系统](https://mc.manuscriptcentral.com/ijcs),[IJCS主页](https://onlinelibrary.wiley.com/journal/10991131)，[IJCS新投稿系统](https://wiley.atyponrex.com/qualifications/949f7f1a-bdea-422d-8232-91aa5cadaf01)录用；
 1篇[IEEE TVT](https://mc.manuscriptcentral.com/tvt-ieee)一审（2021-5-25投）。
 
 链接：[https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx](https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx)
@@ -42,8 +42,9 @@
 1. [Zhong P, **Xu A**, Chen Y, et al. An Optimization Deployment Scheme for Static Charging Piles Based on Dynamic of Shared E-Bikes[C]//2019 15th International Conference on Mobile Ad-Hoc and Sensor Networks (MSN). IEEE, 2019: 343-347.  CCF C类. (导师一作，本人二作)](https://ieeexplore.ieee.org/document/9066134) 
 2. [Zhong P, **Xu A**, Zhang S, et al. EMPC: Energy-Minimization Path Construction for data collection and wireless charging in WRSN[J]. Pervasive and Mobile Computing, 2021: 101401. JCR Q1. (导师一作，本人二作)](https://www.sciencedirect.com/science/article/pii/S1574119221000560?dgcid=coauthor)
 3. Zhong P, **Xu A**, Lin S and Kui X. A Prediction Model of Death Probability for Guiding Wireless Recharging in Sensor Networks[J]: International Journal of Sensor Networks (IJSNET), 2021.
-4. [**徐爱昆**,康怡琳,顾珉光, 等.智慧校园储物柜的多功能控制系统设计[J].单片机与嵌入式系统应用,2019,19(1):69-72.](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=DPJY201901021&v=tH0Kn33q%25mmd2F7UZudb65i%25mmd2FgqhTDCoLIsxUT9lBnD8jjC9fq7T0a7%25mmd2BQplELMwKsxmnhy)
-5. [**徐爱昆**,康怡琳,冀子超, 等.基于树莓派摄像头的双轮循迹平衡车设计[J].单片机与嵌入式系统应用,2018,18(12):74-77.](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=DPJY201812024&v=2SfVHxkspGP9kiYWz2DL2eIgPMoHS9rCcDnSJoSq7TgaArTlU0pNRuWu4kyt90O2)
+4. Zhong P, **Xu A**, et al. An Efficient On-Demand Charging Scheduling Scheme for Mobile Charging Vehicle[J]: International Journal of Communication Systems (IJCS), 2021. 
+5. [**徐爱昆**,康怡琳,顾珉光, 等.智慧校园储物柜的多功能控制系统设计[J].单片机与嵌入式系统应用,2019,19(1):69-72.](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=DPJY201901021&v=tH0Kn33q%25mmd2F7UZudb65i%25mmd2FgqhTDCoLIsxUT9lBnD8jjC9fq7T0a7%25mmd2BQplELMwKsxmnhy)
+6. [**徐爱昆**,康怡琳,冀子超, 等.基于树莓派摄像头的双轮循迹平衡车设计[J].单片机与嵌入式系统应用,2018,18(12):74-77.](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=DPJY201812024&v=2SfVHxkspGP9kiYWz2DL2eIgPMoHS9rCcDnSJoSq7TgaArTlU0pNRuWu4kyt90O2)
 
 ### 我的专利
 [中南大学.基于团划分的静态充电桩部署方法:CN201910132418.0[P].2019-06-11. (导师第一发明人，本人第二发明人)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109872070A&v=ainDd5pT%25mmd2BGh%25mmd2FLwgxlXusvvmrZPlup7MIwRrnrOLlBexQllz9VJH0nnquSOZMRS95)
