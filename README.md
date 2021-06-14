@@ -205,6 +205,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 Email:[aikunxu@csu.edu.cn](aikunxu@csu.edu.cn)
 
 ## Note
+### 解决github无法显示图片的方法：https://blog.csdn.net/qq_38232598/article/details/91346392
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
