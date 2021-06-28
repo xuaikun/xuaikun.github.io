@@ -130,6 +130,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 
 ### 重要课程
 1. [斯坦福大学——人工智能本科4年课程清单](https://mp.weixin.qq.com/s/FiLbFVCIo8v1Dx-FQktHAA)
+2. [高考分数火热出炉！一份最全人工智能专业填报指南请收好](https://mp.weixin.qq.com/s/H_Awrq7evpvwvReECG0Q-A)
 
 ### 图神经网络
 1. [从图(Graph)到图卷积(Graph Convolution): 漫谈图神经网络 (一)](https://zhuanlan.zhihu.com/p/108294485)
@@ -145,6 +146,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 2. [LinkedIN最新《注意力模型》综述论文大全，20页pdf](https://mp.weixin.qq.com/s/bl1MsrvSvgQQnqigQjvVdw)
 3. [Transformer家族简史（PART I）](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247491693&idx=2&sn=2032f9a45e49fafc13a6e3ded23e1c39&chksm=97ad06bfa0da8fa9f60a0f6dca283acf281695eba4db1a5d7837b39750019d8c402384681497&scene=21#wechat_redirect)
 4. [Transformer家族简史（PART II）](https://mp.weixin.qq.com/s/SPllU8IxvnqEK8Xud-1w-w)
+5. [再谈Attention机制](https://mp.weixin.qq.com/s/5HzgYTEjHc4hhjIW-8NWnA)
 
 ### 多模态深度学习
 1. [多模态深度学习综述：网络结构设计和模态融合方法汇总](https://mp.weixin.qq.com/s/_LTxBrLSyMV3BIze7D56LA)
@@ -175,6 +177,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 ### 读博可看
 1. [UC伯克利马毅ICML投稿得到4个评审接收却仍遭AC拒绝！自称论文泄露了深度学习的天机](https://mp.weixin.qq.com/s/i1JsgVdLi_kxjpnSe-OL3w)
 2. [博士这五年-李沐](https://zhuanlan.zhihu.com/p/25099638)
+3. [清华姚班教师劝退文：读博，你真的想好了吗？](https://mp.weixin.qq.com/s/l0EHkx9QkvtHfQbmMh-Rvg)
 
 ### 投资理财
 1. [全球货币大放水的时代，普通人该如何投资？](https://mp.weixin.qq.com/s/UopAKWYuDcQmdCioyJf8Yw)  
@@ -194,6 +197,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 8. [OJ在线编程常见输入输出练习](https://www.nowcoder.com/test/27976983/summary#question)
 9. 华为：第一题：100，第二题：200，第三题：300，超100分，过笔试
 10. [李沐：工作五年反思](https://mp.weixin.qq.com/s/f0DdF9OnUB9HG8M2S6gCSQ)
+11. [毕业啦！职场前辈给新人的10条忠告，让你少走弯路](https://mp.weixin.qq.com/s/lNqRd8q7BKu80QHy63RrNQ)
 
 ### 编码工具
 1. [c++编辑+编译器~dev](https://sourceforge.net/projects/orwelldevcpp/)
