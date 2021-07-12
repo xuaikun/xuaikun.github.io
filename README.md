@@ -180,6 +180,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 1. [UC伯克利马毅ICML投稿得到4个评审接收却仍遭AC拒绝！自称论文泄露了深度学习的天机](https://mp.weixin.qq.com/s/i1JsgVdLi_kxjpnSe-OL3w)
 2. [博士这五年-李沐](https://zhuanlan.zhihu.com/p/25099638)
 3. [清华姚班教师劝退文：读博，你真的想好了吗？](https://mp.weixin.qq.com/s/l0EHkx9QkvtHfQbmMh-Rvg)
+4. [Doing_the_PhD](https://github.com/shengyp/doing_the_PhD)
 
 ### 投资理财
 1. [全球货币大放水的时代，普通人该如何投资？](https://mp.weixin.qq.com/s/UopAKWYuDcQmdCioyJf8Yw)  
