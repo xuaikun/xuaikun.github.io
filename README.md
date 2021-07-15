@@ -23,7 +23,7 @@
 4. 1篇[IJCS老投稿系统](https://mc.manuscriptcentral.com/ijcs),[IJCS主页](https://onlinelibrary.wiley.com/journal/10991131)，[IJCS新投稿系统](https://wiley.atyponrex.com/qualifications/949f7f1a-bdea-422d-8232-91aa5cadaf01)录用；
 5. 1篇被软件学报录用；
 6. 1篇[IEEE TVT](https://mc.manuscriptcentral.com/tvt-ieee)一审（2021-5-25投）SCI 2区;
-7. 1篇[IEEE T-ITS](https://mc.manuscriptcentral.com/t-its)一审（2021-7-15投）SCI 1区 交通领域顶刊.
+7. 1篇[IEEE T-ITS](https://mc.manuscriptcentral.com/t-its)一审（2021-7-15投）SCI 1区 交通领域顶刊.https://www.ieee-itss.org/its-transactions
 
 链接：[https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx](https://faculty.csu.edu.cn/zhongping/zh_CN/xsxx/76785/content/1763.htm#xsxx)
 
