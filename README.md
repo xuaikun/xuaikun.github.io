@@ -204,6 +204,10 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 10. [李沐：工作五年反思](https://mp.weixin.qq.com/s/f0DdF9OnUB9HG8M2S6gCSQ)
 11. [毕业啦！职场前辈给新人的10条忠告，让你少走弯路](https://mp.weixin.qq.com/s/lNqRd8q7BKu80QHy63RrNQ)
 
+### 产品经理成长之路
+1. [PDCA]-->某个大任务
+2. [SMARK]-->某一件事
+
 ### 编码工具
 1. [c++编辑+编译器~dev](https://sourceforge.net/projects/orwelldevcpp/)
 
