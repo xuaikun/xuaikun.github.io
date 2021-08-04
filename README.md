@@ -16,11 +16,11 @@
 
 我的研究方向：前期主要做WSN和WRSN中的网络优化以及Shared E-Bike和EV背景下的充电调度，目前主要做与深度学习相关的研究，比如：图神经网络。
 
-目前在投SCI期刊论文1篇，录用期刊论文3篇，已发表期刊和会议论文2篇(导师一作，本人二作)：
+目前在投SCI期刊论文2篇，录用期刊论文2篇，已发表期刊和会议论文3篇(导师一作，本人二作)：
 1. 1篇被MSN'19录用并发表；
 2. 1篇被[PMC](https://www.sciencedirect.com/science/article/pii/S1574119221000560?dgcid=coauthor)录用并发表；
 3. 1篇被[IJSNET](https://www.inderscience.com/login.php)录用；
-4. 1篇[IJCS老投稿系统](https://mc.manuscriptcentral.com/ijcs),[IJCS主页](https://onlinelibrary.wiley.com/journal/10991131)，[IJCS新投稿系统](https://wiley.atyponrex.com/qualifications/949f7f1a-bdea-422d-8232-91aa5cadaf01)录用；
+4. 1篇[IJCS老投稿系统](https://mc.manuscriptcentral.com/ijcs),[IJCS主页](https://onlinelibrary.wiley.com/journal/10991131)，[IJCS新投稿系统](https://wiley.atyponrex.com/qualifications/949f7f1a-bdea-422d-8232-91aa5cadaf01)录用发表；
 5. 1篇被软件学报录用；
 6. 1篇[IEEE TVT](https://mc.manuscriptcentral.com/tvt-ieee)一审（2021-5-25投）SCI 2区;
 7. 1篇[IEEE T-ITS](https://mc.manuscriptcentral.com/t-its)一审（2021-7-15投）SCI 1区 交通领域顶刊.https://www.ieee-itss.org/its-transactions
