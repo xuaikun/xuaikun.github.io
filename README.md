@@ -43,7 +43,8 @@
 2. [Zhong P, **Xu A**, Zhang S, et al. EMPC: Energy-Minimization Path Construction for data collection and wireless charging in WRSN[J]. Pervasive and Mobile Computing, 2021: 101401. JCR Q1. (导师一作，本人二作)](https://www.sciencedirect.com/science/article/pii/S1574119221000560?dgcid=coauthor)
 3. Zhong P, **Xu A**, Lin S and Kui X. A Prediction Model of Death Probability for Guiding Wireless Recharging in Sensor Networks[J]. International Journal of Sensor Networks (IJSNET), 2021. JCR Q2. (导师一作，本人二作).
 4. [Zhong P, **Xu A**, et al. An Efficient On-Demand Charging Scheduling Scheme for Mobile Charging Vehicle[J]: International Journal of Communication Systems (IJCS), 2021. JCR Q2. (导师一作，本人二作)](https://onlinelibrary.wiley.com/doi/10.1002/dac.4919)
-5. Zhong P, **Xu AK**, Zhang YW, Li YT, Zhang YM, Huang JW, Wang JX. An effective low-energy scheme for mobile data collection and wireless charging. Ruan Jian Xue Bao/Journal of Software, 2021,32(9):124 (in Chinese). http://www.jos.org.cn/ 1000-9825/5975.htm (导师一作，本人二作)
+5. Zhong P, **Xu AK**, Zhang YW, Li YT, Zhang YM, Huang JW, Wang JX. An effective low-energy scheme for mobile data collection and wireless charging. Ruan Jian Xue Bao/Journal of Software, 2021,32(9):124 (in Chinese). http://www.jos.org.cn/ 1000-9825/5975.htm (导师一作，本人二作)【钟萍,徐爱昆,张艺雯,李亚婷,张一鸣,黄家玮,王建新.一种高效低能耗移动数据采集与无线充电策略.软件学
+报,2021,32(9):2867−2886. http://www.jos.org.cn/1000-9825/5975.htm】
 6. [**徐爱昆**,康怡琳,顾珉光, 等.智慧校园储物柜的多功能控制系统设计[J].单片机与嵌入式系统应用,2019,19(1):69-72.](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=DPJY201901021&v=tH0Kn33q%25mmd2F7UZudb65i%25mmd2FgqhTDCoLIsxUT9lBnD8jjC9fq7T0a7%25mmd2BQplELMwKsxmnhy)
 7. [**徐爱昆**,康怡琳,冀子超, 等.基于树莓派摄像头的双轮循迹平衡车设计[J].单片机与嵌入式系统应用,2018,18(12):74-77.](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=DPJY201812024&v=2SfVHxkspGP9kiYWz2DL2eIgPMoHS9rCcDnSJoSq7TgaArTlU0pNRuWu4kyt90O2)
 
