@@ -127,6 +127,7 @@ dblp: [https://dblp.org/pid/264/1873.html](https://dblp.org/pid/264/1873.html)
 
 ### 写作经验
 1. [简单点，让论文写作简单点，老牌名校助理教授给出8个建议](https://mp.weixin.qq.com/s/91EEiq8tMb4lG2ldyW6e-Q)
+2. [剑桥大学：语言和写作决定人生发展的潜力](http://www.isee-ai.cn/~zhwshi/writing.pdf)
 
 <figure>
 <a><img src="https://github.com/xuaikun/xuaikun.github.io/blob/main/paper-scheme.jpg"></a>
